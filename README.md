@@ -1,8 +1,19 @@
-# Portfolio Websites
+# Portfolio Websites and Others
 
-Website (Order done)
+Website
 
-- https://pesecompanhia.com
-- https://thauan.com
-- https://lusofoniadosafetos.com
-- https://portaldefarmacias.com (complete)
+- https://pesecompanhia.com (2018)
+- https://thauan.com (2018)
+- https://lusofoniadosafetos.com (2019)
+- https://portaldefarmacias.com (2019)
+
+CMS
+
+- https://bebau.pt
+- https://livgerie.com
+
+Web App (Private)
+
+- AEOP
+- Budget
+- Bayer Cases
